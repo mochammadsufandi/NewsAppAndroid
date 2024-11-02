@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RetrofitBeginner</string>
+    <string name="news">News</string>
+    <string name="news_text">Text</string>
+    <string name="sourceText">Source</string>
+    <string name="title_text">Title Text</string>
+    <string name="description_text">Description Text</string>
+    <string name="date_time_text">Date Time Text</string>
+    <string name="headlines_text">Headlines</string>
+</resources>
